@@ -8,7 +8,7 @@
 
 ## 🌍 Real-Time Location Sharing & Tracking
 
-🚀 **Live Demo:** [🔗 [Try It Here](https://trackor.onrender.com/)](#)
+🚀 **Live Demo:** [🔗 [Try It Here](https://trackor.onrender.com/)]
 
 ## 🚀 Introduction
 
